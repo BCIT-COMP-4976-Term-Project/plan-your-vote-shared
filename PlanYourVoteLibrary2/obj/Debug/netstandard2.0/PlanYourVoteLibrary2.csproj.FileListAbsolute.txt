@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.AssemblyInfo.cs
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\bin\Debug\netstandard2.0\PlanYourVoteLibrary2.deps.json
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\bin\Debug\netstandard2.0\PlanYourVoteLibrary2.dll
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\bin\Debug\netstandard2.0\PlanYourVoteLibrary2.pdb
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.dll
+C:\Users\user\Desktop\plan-your-vote-cms\PlanYourVoteLibrary2\obj\Debug\netstandard2.0\PlanYourVoteLibrary2.pdb
